@@ -1,7 +1,7 @@
 server {
   listen 80;
   listen [::]:80;
-  server_name nhannd.xyz;
+  server_name nhand02.xyz;
   root /var/www/wordpress;
 
 
